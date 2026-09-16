@@ -6,5 +6,10 @@ namespace TeamQuizApp4
         {
             InitializeComponent();
         }
+
+        private void answerButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
